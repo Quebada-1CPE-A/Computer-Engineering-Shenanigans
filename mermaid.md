@@ -1,5 +1,5 @@
 ```mermaid
-%%{ init: {'flowchart" : {'curve': 'stepBefore'}}}%%
+%%{ init: {'flowchart" : {'curve': 'stepAfter'}}}%%
 flowchart TD
     A --> B{Is there any?}
     B --> C[/Input Yes/]
